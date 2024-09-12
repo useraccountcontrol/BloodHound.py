@@ -7,6 +7,9 @@ BloodHound.py is a Python based ingestor for [BloodHound](https://github.com/Blo
 
 This version of BloodHound.py is **only compatible with BloodHound 4.2 and 4.3**. For BloodHound CE, check out the [bloodhound-ce branch](https://github.com/dirkjanm/BloodHound.py/tree/bloodhound-ce)
 
+## Addition
+This version of BloodHound.py additionaly checks for Add/Remove Replica in Domain permissions.
+
 ## Limitations
 BloodHound.py currently has the following limitations:
 - Supports most, but not all BloodHound (SharpHound) features. Currently GPO local groups are not supported, all other collection methods are implemented.
