@@ -40,7 +40,7 @@ EXTRIGHTS_GUID_MAPPING = {
     "UserForceChangePassword": string_to_bin("00299570-246d-11d0-a768-00aa006e0529"),
     "AllowedToAct": string_to_bin("3f78c3e5-f79a-46bd-a0b8-9d18116ddc79"),
     "UserAccountRestrictionsSet": string_to_bin("4c164200-20c0-11d0-a768-00aa006e0529"),
-    "WriteGPLink": string_to_bin("f30e3bbf-9ff0-11d1-b603-0000f80367c1")
+    "WriteGPLink": string_to_bin("f30e3bbf-9ff0-11d1-b603-0000f80367c1"),
     "AddRemoveReplica" : string_to_bin("9923a32a-3607-11d2-b9be-0000f87a36b2")
 }
 
